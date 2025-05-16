@@ -14,27 +14,18 @@ This project is a comprehensive platform for analyzing, visualizing, and gaining
 - **Filtering & Drilldown:** Slice data by department, time period, job role, and other dimensions.
 - **Summary Statistics:** Quick insights with KPIs like time-to-hire, offer acceptance rate, and diversity metrics.
 - **Responsive Design:** Works on desktop and mobile devices.
-- **User Authentication:** Secure login and role-based access (if implemented).
 - **Extensible Architecture:** Modular codebase for easy customization and extension.
 
----
-
-## 📊 Example Use Cases
-
-- **Track Recruitment Funnel:** Visualize candidate progression from application to hire.
-- **Analyze Diversity:** Monitor diversity and inclusion metrics across hiring stages.
-- **Identify Bottlenecks:** Spot delays in the hiring process and optimize workflows.
-- **Compare Departments:** Benchmark hiring performance across teams or locations.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Streamlit (Python-based web app framework)
+- **Frontend:** Streamlit (Python-based web app streamlet framework)
 - **Backend/Data Processing:** Python (Pandas, NumPy)
 - **Data Visualization:** Plotly, Matplotlib, Seaborn
 - **Notebook Analysis:** Jupyter Notebooks
-- **Deployment:** Local or cloud (Streamlit Cloud, Heroku, etc.)
+- **Deployment:** Local or cloud (Streamlit Cloud)
 
 ---
 
